@@ -34,3 +34,4 @@ C:\Diego\Projects\AmazonPoC\src\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
 C:\Diego\Projects\AmazonPoC\src\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
 C:\Diego\Projects\AmazonPoC\src\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
 C:\Diego\Projects\AmazonPoC\src\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+C:\Diego\Projects\AmazonPoC\src\WebApp\webapp\obj\Debug\netcoreapp3.1\WebApp.csprojAssemblyReference.cache
